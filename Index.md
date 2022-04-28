@@ -29,3 +29,8 @@ Agenda una cita
 
 [agenda cita](agenda-cita.md)
 
+Ubicacion y Horarios
+
+[ubicacion y horario](ubicacion-y-horarios.md)
+
+![image](https://user-images.githubusercontent.com/100097825/165816952-5bdeb430-4572-47da-aade-cecb61c15e56.png)
